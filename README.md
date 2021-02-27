@@ -8,3 +8,4 @@ share.js
 ```
 <script src="https://erichsia7.github.io/share/share.js"></script>
 ```
+[Demo](https://erichsia7.github.io/share/demo.html)
